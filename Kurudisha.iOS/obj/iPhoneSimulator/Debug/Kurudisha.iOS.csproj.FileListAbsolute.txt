@@ -64,3 +64,10 @@ C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\obj\iPhoneSimulator\Debug
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\obj\iPhoneSimulator\Debug\Kurudisha.iOS.csproj.CopyComplete
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\obj\iPhoneSimulator\Debug\Kurudisha.iOS.exe
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\obj\iPhoneSimulator\Debug\Kurudisha.iOS.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll

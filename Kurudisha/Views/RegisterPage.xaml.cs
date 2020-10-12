@@ -21,7 +21,7 @@ namespace Kurudisha.Views
         private Entry _businessAddress;
         private Entry _password;
         private Entry _confirmPassword;
-        private Entry _type;
+        //private Entry _type;
         private Button _savebutton;
         public RegisterPage()
         {

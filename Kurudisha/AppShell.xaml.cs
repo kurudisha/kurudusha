@@ -43,6 +43,7 @@ namespace Kurudisha
         {
             routes.Add("settings", typeof(SettingsPage));
             routes.Add("aboutus", typeof(AboutPage));
+            routes.Add("landing", typeof(Landing_Page));
             foreach (var item in routes)
             {
                 Routing.RegisterRoute(item.Key, item.Value);

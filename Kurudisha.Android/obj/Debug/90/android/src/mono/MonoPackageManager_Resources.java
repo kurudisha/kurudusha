@@ -3,8 +3,12 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Kurudisha.Android.dll" comes first in this list. */
 		"Kurudisha.Android.dll",
+		"AWSSDK.CognitoIdentity.dll",
+		"AWSSDK.Core.dll",
+		"AWSSDK.SecurityToken.dll",
 		"FormsViewGroup.dll",
 		"Kurudisha.dll",
+		"Microsoft.Bcl.AsyncInterfaces.dll",
 		"Newtonsoft.Json.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_v2.dll",

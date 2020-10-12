@@ -22,12 +22,15 @@ C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\View
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\MonitoringPage.xaml.g.cs
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\TaskPage.xaml.g.cs
-C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.csprojAssemblyReference.cache
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
-C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Learning Portal.xaml.g.cs
-C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\My Account Page.xaml.g.cs
 C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Payment Page.xaml.g.cs
-C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Request Driver Page.xaml.g.cs
-C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Stock Management Page.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\CreditPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\FinancePage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\InventoryPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\LearningPortalPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\MyAccountPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\RequestDriverPage.xaml.g.cs

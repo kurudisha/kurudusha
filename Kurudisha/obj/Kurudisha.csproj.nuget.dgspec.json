@@ -42,6 +42,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.5.0.26, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

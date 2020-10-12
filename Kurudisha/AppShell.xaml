@@ -37,18 +37,26 @@
             </DataTemplate>
         </ResourceDictionary>
     </Shell.Resources>
-
     <FlyoutItem Title="Home" Icon="home.png">
         <Tab Title="Home" Icon="home.png">
             <ShellContent ContentTemplate="{DataTemplate views:HomePage}"/>
         </Tab>
-        <Tab Title="Register" Icon="chart.png">
+        <Tab Title="Register" Icon="clipboards.png">
             <ShellContent ContentTemplate="{DataTemplate views:RegisterPage}"/>
         </Tab>
-        <Tab Title="Login" Icon="chart.png">
+        <Tab Title="Login" Icon="user.png">
             <ShellContent ContentTemplate="{DataTemplate views:LoginPage}"/>
         </Tab>
+        <Tab Title="Landing Page" Icon="chart.png">
+            <ShellContent Icon="question.png" Title="Learning" ContentTemplate="{DataTemplate views:Learning_Portal}"/>
+            <ShellContent Icon="question.png" Title="Inventory" ContentTemplate="{DataTemplate views:Stock_Management_Page}"/>
+            <ShellContent Icon="question.png" Title="Credit" ContentTemplate="{DataTemplate views:CreditPage}"/>
+            <ShellContent Icon="question.png" Title="Financial" ContentTemplate="{DataTemplate views:FinancePage}"/>
+            <ShellContent Icon="question.png" Title="My Account" ContentTemplate="{DataTemplate views:My_Account_Page}"/>
+            
+        </Tab>
     </FlyoutItem>
+    <MenuItem Text="About Us" Command="{Binding NavigateCommand}" CommandParameter="landing" IconImageSource="question.png"/>
     <MenuItem Text="About Us" Command="{Binding NavigateCommand}" CommandParameter="aboutus" IconImageSource="question.png"/>
     <MenuItem Text="Contact Us" Command="{Binding NavigateCommand}" CommandParameter="aboutus" IconImageSource="question.png"/>
     <MenuItem Text="Settings" Command="{Binding SettingsCommand}" CommandParameter="settings" IconImageSource="settings.png"/>
