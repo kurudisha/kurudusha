@@ -1,0 +1,33 @@
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\bin\Debug\netstandard2.0\Kurudisha.deps.json
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\bin\Debug\netstandard2.0\Kurudisha.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\bin\Debug\netstandard2.0\ref\Kurudisha.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\bin\Debug\netstandard2.0\Kurudisha.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.AssemblyInfoInputs.cache
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.AssemblyInfo.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\ref\Kurudisha.dll
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.pdb
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\AddMonitor.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\DeleteMonitor.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\EditMonitor.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\MonitoringPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\TaskPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Kurudisha.csprojAssemblyReference.cache
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Learning Portal.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\My Account Page.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Payment Page.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Request Driver Page.xaml.g.cs
+C:\Users\Lebogang\source\repos\Kurudisha\Kurudisha\obj\Debug\netstandard2.0\Views\Stock Management Page.xaml.g.cs

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Visual="Material"
+             xmlns:views="clr-namespace:Kurudisha.Views"
+             FlyoutHeaderBehavior="CollapseOnScroll"
+             Shell.ItemTemplate="{StaticResource MenuTemplate}"
+             Shell.MenuItemTemplate="{StaticResource MenuTemplate}"
+             Shell.FlyoutHeaderTemplate="{StaticResource FlyoutHeaderTemplate}"
+             x:Class="Kurudisha.AppShell">
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ThemeColor">#92A0F2</Color>
+            <Color x:Key="GrayColor">Gray</Color>
+            <Color x:Key="BgColor">#F0F0F0</Color>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource BgColor}"/>
+                <Setter Property="Shell.TabBarForegroundColor" Value="{StaticResource ThemeColor}"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="{StaticResource GrayColor}"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="{StaticResource ThemeColor}"/>
+            </Style>
+            <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}"/>
+            <DataTemplate x:Key="MenuTemplate">
+                <StackLayout Orientation="Horizontal">
+                    <Image Margin="30,10,20,10" Source="{Binding Icon}" WidthRequest="22" HeightRequest="22" HorizontalOptions="Start" VerticalOptions="Center"/>
+                    <Label Text="{Binding Title}" TextColor="#686868" FontSize="16" VerticalOptions="Center"/>
+                </StackLayout>
+            </DataTemplate>
+            <DataTemplate x:Key="FlyoutHeaderTemplate">
+                <ContentView BackgroundColor="{StaticResource ThemeColor}" HeightRequest="245">
+                    <Image Source="Picnic.png" WidthRequest="96" HeightRequest="96"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                </ContentView>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Shell.Resources>
+
+    <FlyoutItem Title="Home" Icon="home.png">
+        <Tab Title="Home" Icon="home.png">
+            <ShellContent ContentTemplate="{DataTemplate views:HomePage}"/>
+        </Tab>
+        <Tab Title="Register" Icon="chart.png">
+            <ShellContent ContentTemplate="{DataTemplate views:RegisterPage}"/>
+        </Tab>
+        <Tab Title="Login" Icon="chart.png">
+            <ShellContent ContentTemplate="{DataTemplate views:LoginPage}"/>
+        </Tab>
+    </FlyoutItem>
+    <MenuItem Text="About Us" Command="{Binding NavigateCommand}" CommandParameter="aboutus" IconImageSource="question.png"/>
+    <MenuItem Text="Contact Us" Command="{Binding NavigateCommand}" CommandParameter="aboutus" IconImageSource="question.png"/>
+    <MenuItem Text="Settings" Command="{Binding SettingsCommand}" CommandParameter="settings" IconImageSource="settings.png"/>
+    <MenuItem Text="Learning Portal" Command="{Binding SettingsCommand}" CommandParameter="settings" IconImageSource="settings.png"/>
+</Shell>
